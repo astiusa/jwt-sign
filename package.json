@@ -1,0 +1,23 @@
+{
+  "name": "jwt-sign",
+  "version": "0.0.0",
+  "description": "Simple JWT signing module for internal services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/astiusa/jwt-sign.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/astiusa/jwt-sign/issues"
+  },
+  "homepage": "https://github.com/astiusa/jwt-sign",
+  "dependencies": {
+    "jsonwebtoken": "^1.1.2"
+  }
+}
